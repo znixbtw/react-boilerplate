@@ -9,3 +9,4 @@
 - ESLint
 - Prettier
 - React Router DOM
+- TailwindCSS
